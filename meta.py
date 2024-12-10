@@ -14,11 +14,11 @@ from typing import Tuple
 import telebot
 
 # Telegram Bot Token
-TELEGRAM_TOKEN = "7851602145:AAFxh70OSmMqStSFqtIrhz94Gs8Dnb4VlDc"
+TELEGRAM_TOKEN = "7851602145:AAFxh70OSmMqStSFqtIrhz94mq8Dnb4VlDc"
 bot = telebot.TeleBot(TELEGRAM_TOKEN)
 
 # Group ID for the public group (replace with actual group ID)
-PUBLIC_GROUP_ID = "@pumpfunsentiment"
+PUBLIC_GROUP_ID = "@pump"
 
 # Configure logging
 logging.basicConfig(
@@ -104,7 +104,7 @@ def send_telegram_message(message: str, chat_id=None):
     """Send a message to the Telegram bot."""
     try:
         if chat_id is None:
-            chat_ids = ["6616771329", PUBLIC_GROUP_ID]
+            chat_ids = ["telegramchatid", PUBLIC_GROUP_ID]
         else:
             chat_ids = [chat_id]
 
