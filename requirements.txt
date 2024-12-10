@@ -1,0 +1,7 @@
+telebot
+aiohttp
+pandas
+textblob
+tabulate
+scikit-learn
+nltk
