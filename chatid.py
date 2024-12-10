@@ -1,6 +1,8 @@
+# This is just a method to get chatId
+
 import telebot
 
-TELEGRAM_TOKEN = "7851602145:AAFxh70OSmMqStSFqtIrhz94Gs8Dnb4VlDc"
+TELEGRAM_TOKEN = "your-telegram-token"
 bot = telebot.TeleBot(TELEGRAM_TOKEN)
 
 @bot.message_handler(commands=['start'])
