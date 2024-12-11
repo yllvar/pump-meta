@@ -1,10 +1,11 @@
-```markdown
+
 # 🚀 Pump.Fun Token Sentiment Analyzer
 
 ## 📊 Project Overview
 
 Pump.Fun Sentiment Analysis is an advanced real-time token analysis tool that provides deep insights into the latest tokens on the Pump.Fun platform.
 
+```markdown
 ## ✨ Key Features
 
 ### 🔍 Real-Time Data Extraction
