@@ -5,7 +5,6 @@
 
 Pump.Fun Sentiment Analysis is an advanced real-time token analysis tool that provides deep insights into the latest tokens on the Pump.Fun platform.
 
-```markdown
 ## ✨ Key Features
 
 ### 🔍 Real-Time Data Extraction
@@ -24,7 +23,6 @@ Pump.Fun Sentiment Analysis is an advanced real-time token analysis tool that pr
 - Instant market insights
 
 ## 🛠 Tech Stack
-
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
 ![Telegram](https://img.shields.io/badge/Telegram-Bot-blue?logo=telegram)
 ![Async](https://img.shields.io/badge/Async-Programming-green)
@@ -35,7 +33,7 @@ Pump.Fun Sentiment Analysis is an advanced real-time token analysis tool that pr
 - **Notifications**: Telegram Bot
 
 ## 🚀 Quick Start
-
+```markdown
 ### Prerequisites
 - Python 3.8+
 - Telegram Bot Token
