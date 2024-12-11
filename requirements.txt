@@ -5,3 +5,9 @@ textblob
 tabulate
 scikit-learn
 nltk
+tenacity
+matplotlib
+spacy
+# Add the spaCy model tarball after spaCy itself
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.5.0/en_core_web_sm-3.5.0.tar.gz
+python-telegram-bot
