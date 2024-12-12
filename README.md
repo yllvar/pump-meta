@@ -57,6 +57,8 @@ pip install -r requirements.txt
 python3 main.py
 ```
 
+<img width="574" alt="Screenshot 2024-12-12 at 14 53 44" src="https://github.com/user-attachments/assets/45655067-3d33-427e-a01d-6912e64dbf2a" />
+
 ## 🔮 Future Roadmap
 
 - [ ] Machine Learning Trend Prediction
